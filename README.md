@@ -18,7 +18,7 @@ Este projeto é um script de automação que permite unir múltiplos arquivos PD
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/c4rl0sfilho/UnificadorPDFs.git
    ```
 
 2. Acesse a pasta do projeto:
