@@ -38,12 +38,12 @@ Este projeto é um script de automação que permite unir múltiplos arquivos PD
    source venv/bin/activate # No Mac/Linux
    ```
 
-5. Organize seus arquivos PDF dentro da pasta especificada (`MergePDFs/files`) e execute o script:
+5. Organize seus arquivos PDF dentro da pasta especificada (`files`) e execute o script:
    ```bash
-   python pdf_merger.py
+   python projeto01.py
    ```
 
-6. O arquivo final será salvo com o nome `merged_output.pdf` na pasta `MergePDFs`.
+6. O arquivo final será salvo com o nome `merged_output.pdf` na raiz do projeto.
 
 ## Créditos
 
